@@ -9,7 +9,7 @@
 ---
 
 ### Sobre mí 🧑‍💻
-Soy un desarrollador Fullstack con experiencia en la creación de aplicaciones web y móviles, combinando diseño intuitivo con funcionalidades sólidas. Me encanta aprender nuevas tecnologías, resolver problemas complejos y trabajar en equipo para construir soluciones que impacten positivamente.
+Soy un desarrollador Fullstack con experiencia en la creación de aplicaciones web y móviles, con los conocimientos que he adquirido, estoy listo para comenzar a trabajar en proyectos desafiantes y aportar mi granito de arena al mundo del desarrollo web.
 
 ---
 
@@ -31,7 +31,7 @@ Soy un desarrollador Fullstack con experiencia en la creación de aplicaciones w
 
 ### ¿Qué encontrarás aquí? 📂
 - 🔧 Proyectos interesantes usando las últimas tecnologías.
-- 📚 Repositorios con guías y ejemplos de buenas prácticas.
+- 📚 Ejemplos de buenas prácticas.
 - 🌟 Código abierto para la comunidad.
 
 ---
