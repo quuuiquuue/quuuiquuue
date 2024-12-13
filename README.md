@@ -47,7 +47,7 @@ Soy un desarrollador Fullstack con experiencia en la creación de aplicaciones w
     <a href="https://www.linkedin.com/in/enrique-contreras-lopez-039613278" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/quuuiquue" target="_blank">
+    <a href="https://github.com/quuuiquuue" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </a>
     <a href="mailto:cnnntreraslopez.enrique@gmail.com" target="_blank">
