@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hola, soy Quuuiquue 👋</h1>
-    <img src="[https://imgur.com/a/XMlnajP](https://imgur.com/a/XMlnajP)" alt="Imagen de Quuuiquue">
+    <img src="https://drive.google.com/file/d/1--i5Ix1CS8m7XCHVsY4Z_pY7_soEAKKB/view?usp=sharing" alt="Imagen de Quuuiquue">
     <h3 align="center">
         🚀 Desarrollador Fullstack | 🌐 Apasionado por la tecnología y el código limpio
     </h3>
